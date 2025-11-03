@@ -1,9 +1,0 @@
-_iub.csRC = { consApiKey: 'oJ7MDC0MDvLm77ysL7epyvkSctZpIWtl', publicId: '143ad528-109b-48cd-95d7-a7bb1090b7fa' }
-_iub.csEnabled = true;
-_iub.csPurposes = [1,4];
-_iub.cpUpd = 1725275536;
-_iub.csFeatures = {"geolocation_setting":false,"cookie_solution_white_labeling":1,"rejection_recovery":false,"full_customization":true,"multiple_languages":"en","mobile_app_integration":false};
-_iub.csT = null;
-_iub.googleConsentModeV2 = true;
-_iub.totalNumberOfProviders = 1;
-_iub.csSiteConf = {"askConsentAtCookiePolicyUpdate":true,"floatingPreferencesButtonDisplay":"bottom-right","floatingPreferencesButtonZIndex":-1000,"lang":"en","perPurposeConsent":true,"preferenceCookie":{"expireAfter":180},"siteId":3750363,"whitelabel":false,"cookiePolicyId":13464967,"banner":{"acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"ownerName":"NeuralTrust","position":"bottom","showTitle":false,"showTotalNumberOfProviders":true}};
